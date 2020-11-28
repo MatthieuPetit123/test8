@@ -20,4 +20,8 @@ public class Mur extends Fixe{
     {
         return ("X");
     }
+    public void afficher()
+    {
+        System.out.println("test");
+    }
 }
